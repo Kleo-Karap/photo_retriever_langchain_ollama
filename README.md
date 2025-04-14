@@ -6,4 +6,8 @@ Feel free to dive into the code, modify it, and see AI in action! Your contribut
 Let's make AI practical, together.
 
 # Instructions
--
+You can walk through the notebook to grasp the key concepts. The trickiest part is installing Ollama in the CLI, but you should have no problem with that.
+
+Having a GPU will speed up the photo processing.
+
+Enjoy!
